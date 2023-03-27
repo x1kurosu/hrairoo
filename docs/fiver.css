@@ -1,4 +1,5 @@
 html{
+  margin:auto;
   max-width:80%;
   }
 body{
@@ -8,6 +9,8 @@ h1{
   background:black;
   border:1px solid black;
   color:blueviolet;
+  margin-top:0px;
+  padding:2px;
   }
 .box{
   background-color:white;
@@ -15,4 +18,5 @@ h1{
   }
 p{
   color:black;
+  padding:2px;
   }
