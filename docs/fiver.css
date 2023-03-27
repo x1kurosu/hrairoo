@@ -1,13 +1,13 @@
 body{
-  background-color:black;
+  background-color:darkgrey;
   }
 h1{
-  border:black, 1px;
+  border:1px, solid, black;
   color:blue;
   }
 .box{
   background-color:white;
-  border:black, 1px;
+  border:1px, solid, black;
   }
 p{
   color:black;
