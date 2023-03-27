@@ -5,8 +5,9 @@ body{
   background-color:darkgrey;
   }
 h1{
+  background:black;
   border:1px solid black;
-  color:red;
+  color:blueviolet;
   }
 .box{
   background-color:white;
