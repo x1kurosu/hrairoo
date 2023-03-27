@@ -1,2 +1,2 @@
 # hrairoo
-A small blog of opinions.
+fuck your heckin' doggo
